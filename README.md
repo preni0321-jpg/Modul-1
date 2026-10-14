@@ -1,4 +1,4 @@
-# Matdis
+Jo# Matdis
 Laporan Praktikum Matdis 1
 
 Nama : Reni Putri Meisaroq
@@ -23,7 +23,7 @@ Maksud: Sistem berbasis digital untuk menghimpun karya intelektual dan dokumen i
 5. Dapat cashback
 6. Dapat Promo
 7. Gratis ongkir
-8. Logi username
+8. Login username
 
 # Boolean
 AND
