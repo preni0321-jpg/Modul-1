@@ -1,5 +1,4 @@
-Jo# Matdis
-Laporan Praktikum Matdis 1
+#  Modul 1:Logika dan Himpunana
 
 Nama : Reni Putri Meisaroq
 
